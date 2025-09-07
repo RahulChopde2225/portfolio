@@ -21,7 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 
 
-import meta from "./company/meta.png";
+import Meta from "./company/Meta.png";
 import shopify from "./company/shopify.png";
 import tesla from "./company/tesla.png";
 
@@ -50,7 +50,7 @@ export {
   redux,
   tailwind,
   typescript,
-  meta,
+  Meta,
   shopify,
   tesla,
   carrent,
