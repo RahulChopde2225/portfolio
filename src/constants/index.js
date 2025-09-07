@@ -16,7 +16,7 @@ import {
   git,
   figma,
   docker,
-  meta,
+  Meta,
   tesla,
   shopify,
   carrent,
@@ -139,7 +139,7 @@ const experiences = [
   {
     title: "10th Standard (SSC)",
     company_name: "Jogeshwari High School Palshi",
-    icon: meta,
+    icon: Meta,
     iconBg: "#383E56",
     date: "2018 - 2019",
     points: [
